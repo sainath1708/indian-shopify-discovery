@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+README_backup.md
+sources_broken_backup.py
+.venv/
+venv/
+.env
